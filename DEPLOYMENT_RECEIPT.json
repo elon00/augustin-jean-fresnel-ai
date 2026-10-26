@@ -1,0 +1,14 @@
+{
+  "project": "augustin-jean-fresnel-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "HsmG9mDiJcLieeA9cqTasUupqiFJUEonkGFNk7eUZ2AU",
+  "vault_account": "6U52vVEH37N4zDsmCbwDFaZpeNvGQM1qcR6LH1m8MTGi",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2345zerwJrbVUXWNGB3R6LTMxEJzYHyJiPoC5RXyJgs5oNWggVWELUz1GcbMb1vL5d3MH3n37cuqxFXGQZoBTSMA",
+  "account_tx": "5bVZumqt8c8Aw7hhd5qTGe5hKs8EtF6dm7rBtDND1nz262vKDxgTChHy5SBrxQZA8AYGs2DAZbizLTQj7dzcLhWK",
+  "mint_tx": "5VDV1PwtaEit9YPtXxAQY8ucaS36nDuLCxBQh4xL8VmJfQ1g9gL2hkD9uwtXatHemHE93BCNbdN743sYhaCgUcs8",
+  "solana_explorer_mint": "https://explorer.solana.com/address/HsmG9mDiJcLieeA9cqTasUupqiFJUEonkGFNk7eUZ2AU?cluster=devnet",
+  "timestamp": "2026-10-26 16:20:36 UTC"
+}
